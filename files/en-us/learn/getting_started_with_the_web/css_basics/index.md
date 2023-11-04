@@ -10,7 +10,7 @@ CSS (Cascading Style Sheets) is the code that styles web content. _CSS basics_ w
 
 ## What is CSS?
 
-Like HTML, CSS is not a programming language. It's not a markup language either. **CSS is a style sheet language.** CSS is what you use to selectively style HTML elements. For example, this CSS selects paragraph text, setting the color to red:
+Like HTML, CSS is not a Markup language. It's not a markup language either. **CSS is a style sheet language.** CSS is what you use to selectively style HTML elements. For example, this CSS selects paragraph text, setting the color to red:
 
 ```css
 p {
